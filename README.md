@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 style="font-family:script;" align="center"> Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 , I'm Ahmed Mokhtar </h1>
 <h3 align="center">Critical thinking and problem solving. Teamwork and collaboration. Professionalism and strong work ethic. Oral and written communications skills. Leadership.</h3>
@@ -8,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabuezefranklin&label=Profile%20views&color=0e75b6&style=flat" alt="nwabuezefranklin" /> </p>
 
 
-- 🔭 I’m currently working on **Full-stack Web Development**
+- 🔭 I’m currently working on **Full-Stack Web Development**
 
 - 🌱 I’m currently learning **Mastering Typescript, Nodejs, C, **
 
-- 👯 I’m looking to collaborate on **Machine learning & Game development**
+- 👯 I’m looking to collaborate on **Software Engineering & Web Development**
 
 - 💬 Ask me about **HTML, CSS, Python, C, Javascript**
 
