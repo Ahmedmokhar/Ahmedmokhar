@@ -8,17 +8,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwabuezefranklin&label=Profile%20views&color=0e75b6&style=flat" alt="nwabuezefranklin" /> </p>
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Full-stack Web Development**
 
-- 🌱 I’m currently learning **Mastering Python**
+- 🌱 I’m currently learning **Mastering Typescript, Nodejs, C, **
 
 - 👯 I’m looking to collaborate on **Machine learning & Game development**
 
-- 💬 Ask me about **Python, C, Javascript, PHP**
+- 💬 Ask me about **HTML, CSS, Python, C, Javascript**
 
-- 📫 How to reach me **nwafrank2017@gmail.com**
+- 📫 How to reach me **ahmdmkhtar@gmail.com**
 
-- ⚡ Fun fact **A shrimp's heart is in its head...**
+- ⚡ Fun fact **Coding has over 700 languages**
 
 </p>
 
