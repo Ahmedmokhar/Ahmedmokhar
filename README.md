@@ -27,34 +27,17 @@
  
  
  ## Stats.
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NwabuezeFranklin&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NwabuezeFranklin&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Nwabueze Franklin's github stats" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedmokhar&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmedmokhar&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Ahmed Mokhtar's github stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NwabuezeFranklin&theme=dark" alt="Tolulope05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedmokhar&theme=dark" alt="Tolulope05" /></p>
 <br/>
  <b>Note:</b><h3> I practice more than indicated!!!</h3>
 
 
-> <a href="https://github.com/NwabuezeFranklin/github-readme-activity-graph"><img alt="Nwabueze Franklin' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NwabuezeFranklin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+> <a href="https://github.com/Ahmedmokhar/github-readme-activity-graph"><img alt="Ahmed Mokhtar' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmedmokhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <!---
-NwabuezeFranlin/NwabuezeFranklin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Ahmedmokhar/Ahmedmokhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
-
-
-<!--
-**Ahmedmokhar/Ahmedmokhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
