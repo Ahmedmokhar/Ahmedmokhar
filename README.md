@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Web Development**
 
-- 🌱 I’m currently learning **Mastering Typescript, Nodejs, C, **
+- 🌱 I’m currently learning **Mastering Typescript, Nodejs, C**
 
 - 👯 I’m looking to collaborate on **Software Engineering & Web Development**
 
